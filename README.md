@@ -1,6 +1,15 @@
 Virtual Drums Game
 Overview
 Developed an engaging instrumental game that allows users to play virtual drums using either their keyboard or by clicking on the keys displayed on the screen. The game provides an immersive experience where users can unleash their creativity and rhythm skills by producing various drum sounds and beats.
+
+Table of Contents
+Features
+Technologies Used
+Installation
+Usage
+Contributing
+License
+Contact
 Features
 Play virtual drums using keyboard keys.
 Click on the displayed drum keys to produce sounds.
